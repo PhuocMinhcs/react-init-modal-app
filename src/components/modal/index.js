@@ -8,7 +8,7 @@ import Button from 'react-bootstrap/Button';
 import './styles.scss';
 
 /**
- * Modal Component
+ * Modal Component explain
  * @prop {*} children - Default React children
  * @prop {*} initContent - Modal init content
  * @prop {*} title - Modal title

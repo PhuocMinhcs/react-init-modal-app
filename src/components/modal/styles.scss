@@ -1,6 +1,7 @@
 $base-section-padding: 0.5rem 1rem;
 $modal-background: #fff;
 $overlay-color: #0006;
+$closeBtnBg: #676768;
 
 .content-wrapper {
     display: inline-block;
@@ -43,6 +44,9 @@ $overlay-color: #0006;
         top: 50%;
         right: 10px;
         transform: translate(0px, -50%);
+        &:hover {
+            background-color: $closeBtnBg;
+        }
     }
 }
 

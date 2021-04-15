@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import Modal from './components/modal';
-// import logo from './logo.svg';
 import './App.css';
 
 function App() {
